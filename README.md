@@ -2,7 +2,7 @@
 
 ![screenshot](http://img1.tbcdn.cn/L1/461/1/525fb1fc871490d02e600659a10a5cc2bde3b221.png)
 
-http://rawgit.com/yuanyan/react-native-web-exploding-hearts/master/web/index.html
+http://rawgit.com/yuanyan/react-native-web-exploding-hearts/master/web/output/index.html
 
 ## Usage
 Install dependencies and devDependencies:
